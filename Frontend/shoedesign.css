@@ -1,0 +1,349 @@
+
+       body{
+        background-color: white;
+       }
+        .title{
+            background-image: url('shoe2.png'), url('shoe3.png');
+            background-position: left,right;
+            background-repeat: no-repeat, no-repeat;
+
+
+            width:1100px;
+            font-size: larger;
+            
+            
+          
+            padding: 14px;
+            background-color: rgb(255, 255, 255);
+            background-size: 122px 105px;
+            margin: auto;
+           
+            
+        }
+        .navbar{
+            background-color: black;
+            border-radius: 30px;
+            
+        }
+        .navbar ul{
+            overflow: auto;
+        }
+        .navbar li{
+            float:left;
+            list-style: none; 
+            margin: 13px 20px;
+            
+        }
+        .navbar li a{
+            padding: 3px 3px;
+            text-decoration: none;
+            color: white;
+        }
+        .navbar li a:hover{
+            color: red
+        }
+        .search{
+            float: right;
+            color: white;
+            padding: 10px 75px;
+        }
+        .navbar input{
+            border: 2px solid black;
+            border-radius: 14px;
+            padding: 3px 17px;
+            width: 129px;
+        }
+       
+   
+       .featured{
+           
+           margin: auto;
+           /* min-width: 389px; */
+           display: inline-block;
+           /* padding: 12px 12px; */
+          
+       }
+       .margie{margin-left: 20px;
+    
+    height: 498px;
+    background: radial-gradient(rgb(193 193 193 / 0%),rgb(218 201 184));
+    border: 2px solid red;
+       }
+    
+    #firfe{
+        box-sizing: border-box;
+        
+        float: left;
+        width: 33%;
+        height: 245px;
+        
+
+        padding-top: 38px;
+        padding-left: 37px;
+    }
+    #secfe{
+        box-sizing: border-box;
+        
+       
+        width:33% ;
+        height: 245px;
+        margin: auto;
+        padding-top: 38px;
+        padding-left: 78px;
+        
+    }
+    #thife{
+        box-sizing: border-box;
+        
+        float: right;
+        width: 33%;
+        height: 245px;
+        padding-left: 138px;
+        padding-top: 38px;
+        
+    }
+    #foufe{
+        box-sizing: border-box;
+        
+        float: left;
+        width: 33%;
+        height: 245px;
+        padding-top: 31px;
+        padding-left: 75px;
+        
+    }
+    #fiffe{
+        box-sizing: border-box;
+        
+        margin: auto;
+        width: 33%;
+        height: 245px;
+        padding-top: 31px;
+        padding-left: 32px;
+        
+    }
+    #sixfe{
+        box-sizing: border-box;
+        
+        
+        float: right;
+        width: 32%;
+        height: 245px;
+        padding-top: 31px;
+        padding-left: 96px;
+        
+    }
+    #down{border: 2px solid rgb(250, 250, 250);
+    width: 1225px;
+height: 355px;}
+    .bot{
+        display: inline-block;
+        
+    }
+    #tex{border: 2px solid rgb(250, 250, 250);
+        height: 300px;
+        width: 613px;
+        display: inline-block;
+        color: orange;
+        /* border: 2px solid white; */
+       
+        
+        padding-left: 20px;
+        padding-top: 20px;
+        float: left;
+        font-size:70px;
+        font-weight: bold;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+    
+    
+    #btn a{
+        display: inline-block;
+        float: right;
+        border: 2px solid chartreuse;
+        padding-top: 20px;
+        border-radius: 30px;
+        
+        
+        padding: 8px 30px;
+        margin-left: 389px;
+        margin-top: 89px;
+        font-size: large;
+        text-decoration: none;
+        color: white;
+        background-color: chartreuse;
+
+    }
+    #btn a:hover{
+        background-color:rgb(196, 196, 17);
+    }
+    .col{
+        box-sizing: border-box;
+        border: 2px solid white;
+        width: 389px;
+        display: inline-block;
+        flex: 33%;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        min-width: 150px;
+        margin-bottom: 50px;
+    }
+    #shoe1{
+        padding-left: 111px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe2{
+        padding-left: 111px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe3{
+        padding-left: 111px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe4{
+        padding-left: 111px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe5{
+        padding-left: 36px;
+        
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe6{
+        padding-left: 111px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe7{
+        padding-left: 31px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe8{
+        padding-left: 131px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe9{
+        padding-left: 135px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe10{
+        padding-left: 40px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe11{
+        padding-left: 65px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe12{
+        padding-left: 46px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe13{
+        padding-left: 58px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe14{
+        padding-left: 75px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe15{
+        padding-left: 111px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    #shoe16{
+        padding-left: 80px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    .adc{
+        color: white;
+        background-color: lightblue;
+        
+    }
+    .adw{
+        color: white;
+        background-color: rgb(230, 173, 225);
+        
+    }
+    .foot{
+        color: white;
+        background-color: black;
+    }
+   .logdet{background-color:rgb(174, 242, 247) ;
+       color: black;
+      
+       padding-left: 10px;
+       padding-right: 10px;
+       padding-bottom: 10px;
+       padding-top: 10px;
+   }
+   #logus{ padding-left: 519px;
+    padding-right: 32px;
+    padding-bottom: 15px;
+    padding-top: 21px;
+}
+   #logpw{ padding-left: 522px;
+    padding-right: 10px;
+    padding-bottom: 23px;
+    padding-top: 10px;
+}
+   #logbt{
+       /* color: white;
+       background-color: rgb(170, 54, 170); */
+       border-radius: 10px;
+        padding-left: 610px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 0px;
+}
+
+   
